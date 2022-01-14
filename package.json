@@ -1,0 +1,28 @@
+{
+  "name": "webpack_boilerplate",
+  "version": "1.0.0",
+  "description": "Webpack 5 boilerplate with Svelte",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgbosse/webpack_boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgbosse/webpack_boilerplate/issues"
+  },
+  "homepage": "https://github.com/cgbosse/webpack_boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
